@@ -1,0 +1,182 @@
+body {
+    background-color: blue;
+    background-image: url(https://reic-ng.com/wp-content/uploads/2016/08/NL_e%CC%88_CDL_MICROFINANCE_BANK2.jpg);
+    line-height: 1.5;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+
+.login-box {
+    background-color: #fff;
+    padding: 6rem;
+    margin-top: 1rem;
+    border-radius: 20px;
+    
+}
+
+.login-header {
+    text-align: center;
+    width: 100%;
+    color: #000000;
+}
+
+.login-header h1 {
+    font-weight: bold;
+}
+
+.login-form {
+    text-align: left;
+    color: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.form-content {
+    margin: 5px;
+    width: 100%;
+}
+input[type=text] {
+    color: #808080;
+    width: 100%;
+    padding: 10px ;
+    margin: ;
+    box-sizing: border-box;
+    border-radius: 50px;
+    border: 1px solid gray;
+}
+
+input[type=email] {
+    color: #808080;
+    width: 100%;
+    padding: 10px ;
+    margin: ;
+    box-sizing: border-box;
+    border-radius: 50px;
+    border: 1px solid gray;
+}
+
+i
+
+.forgot-password {
+    float: right;
+    color: lightskyblue;
+}
+
+.forgot-password a {
+    color: #87cefa;
+}
+
+.forgot-password a:hover{
+    color: #808080;
+    text-decoration: none;
+}
+
+.btn-login {
+    width: 100%;
+    background-color: #4682b4;
+    border-radius: 50px;
+}
+.btn-login:hover {
+    background-color: #2f4f4f;
+}
+
+.contact-admin {
+    padding: 20px;
+    text-align: center;
+    margin: 10px 0 0 20px;
+}
+
+.contact-admin a{
+    color: #87cefa;
+    text-decoration: none;
+}
+
+.contact-admin a:hover {
+    text-decoration: none;
+    color: #808080;
+}
+
+.powered-by {
+    text-align: center;
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: lighter;
+    line-height: 1.0;
+}
+
+.powered-by p{
+    margin-bottom: 0px;
+}
+
+.cdl {
+    margin-top: 0;
+}
+
+.cdl-logo {
+    width: 40%;
+    margin-top: 0;
+}
+
+/* Left content */
+.left-content {
+    padding: 20% 0 20%; 
+    color: #fff;
+    line-height: 1.5; 
+    margin-top: 25%;
+}
+
+.left-content a{
+    color: #48d1cc;
+}
+
+.left-content a:hover {
+    color: #66cdaa;
+    text-decoration: none;
+}
+
+.core {
+    padding: 10px 0 10px 0;
+    margin-top: 10%;
+    text-align: left;
+}
+
+
+
+/* For Mobile */
+.col-1 {width: 8.33%;}
+.col-2 {width: 16.66%;}
+.col-3 {width: 25%;}
+.col-4 {width: 33.33%}
+.col-5 {width: 41.66%}
+.col-6 {width: 50%;}
+.col-7 {width: 58.33%;}
+.col-8 {width: 66.66%;}
+.col-9 {width: 75%;}
+.col-10 {width: 83.33%;}
+.col-11 {width: 91.66%;}
+.col-12 {width: 100%;}
+
+
+
+/*  Login form */
+#form {
+    background-color: #fff;
+    display: block;
+    text-align: center;
+}
+
+.form {
+    width: 100%;
+}
+
+.login {
+    background-color: #006699;
+    color: #fff;
+    width: 100%;
+}
+
+
+
